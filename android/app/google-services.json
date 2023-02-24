@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "505232662214",
+    "project_id": "skin-care-app-bf325",
+    "storage_bucket": "skin-care-app-bf325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505232662214:android:4e12265ad9aa3fe42141c7",
+        "android_client_info": {
+          "package_name": "com.example.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505232662214-3b66ke8uiv5vshr1bq9758kh5md6kio3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppingapp",
+            "certificate_hash": "df1159834182af9cb686195bdee3b4a80d0a3edd"
+          }
+        },
+        {
+          "client_id": "505232662214-najnsiqg75t3jr5nvt2ihb306rqepolu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-_5zFRLgQdQAU4xTFF-6dVECHCMWSk0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505232662214-najnsiqg75t3jr5nvt2ihb306rqepolu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505232662214-0cicb0vp8r7hi39js9hge447tn7nofu0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shoppingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
